@@ -6,7 +6,7 @@
 ✨Features
       -Clean & preprocess messy real estate data      
       -Handle missing values intelligently        
-      -Train Linear Regression & other models to predict house prices      
+      -Train Linear Regression     
       -Evaluate model performance with real metrics      
       -Ready to expand with feature engineering & advanced ML algorithms
 
