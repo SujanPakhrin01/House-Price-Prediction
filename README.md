@@ -5,8 +5,7 @@
 
 ✨Features
       -Clean & preprocess messy real estate data      
-      -Handle missing values intelligently      
-      -Convert categorical data to numeric for ML models      
+      -Handle missing values intelligently        
       -Train Linear Regression & other models to predict house prices      
       -Evaluate model performance with real metrics      
       -Ready to expand with feature engineering & advanced ML algorithms
